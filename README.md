@@ -10,7 +10,7 @@ Note: This document is the framework document for the realization of the innovat
 This project was submitted in the technology category concerning the invention of an innovative product, process or service in the fight against the spread of the Covid-19 epidemic. 
 
 ## CIVOCA: What is it about?
-CIVOCA stands for "Carte interactive de l’évolution du Covid-19 en Afrique" translated as Interactive Map of Covid-19 Evolution in Africa. It is an interactive map that allows you to plot the progress of Covid-19 in Africa.
+CIVOCA stands for "Carte Interactive de l’éVOlution du Covid-19 en Afrique" translated as Interactive Map of Covid-19 Evolution in Africa. It is an interactive map that allows you to plot the progress of Covid-19 in Africa.
 
 ## Why an interactive map?
 The idea of an interactive map was born from the problem of access to detailed and geolocalized information on the spread of Covid-19 in Benin. The main objective is to combine cartography and computer science, and to make this information accessible to the public through the map.
