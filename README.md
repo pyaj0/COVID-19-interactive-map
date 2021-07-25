@@ -35,7 +35,7 @@ To do this, we first extracted the Africa data from the rest of the world data. 
 Our interactive map is, by definition, accessible and easy to use. It is presented in HTML format, a file type that can be opened in your browser. When you open it, a map of the world appears. Above the map is a scroll bar with the date on it. As you scroll from left to right, you will see the map gradually change color from a whitish yellow in some areas to a scarlet red in others. In the upper left corner of the map are two buttons, one to zoom in and one to zoom out. Conversely, a barometer indicates the number of confirmed cases in relation to the defined colors.
 
 ![carte_explication_en](https://user-images.githubusercontent.com/69150501/126908710-8617ce96-f241-4b36-a96d-02d52875cf97.png)
-Description of CIVOCA graphical interface
+Figure: Description of CIVOCA graphical interface
 
 ## Who is CIVOCA for?
 CIVOCA is intended for all users who want to learn more about the progress of Covid-19 in Africa.
