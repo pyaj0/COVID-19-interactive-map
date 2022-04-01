@@ -1,5 +1,5 @@
 # COVID-19-interactive-map
-An interactive showing the evolution of number of COVID-19 cases in Africa
+An interactive map showing the evolution of number of COVID-19 cases in Africa
 
 Realization : Noble Adounkpe - Peniel Adounkpe - Abed Adounkpe
 
